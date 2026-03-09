@@ -53,8 +53,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChitranshuShekhawat&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChitranshuShekhawat&layout=compact&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=ChitranshuShekhawat&theme=tokyonight"/>
 </p>
 
 ---
