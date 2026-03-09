@@ -89,10 +89,10 @@ Lightweight modular music player
 # 🤝 Connect With Me
 
 📧 *Email:*
-[chaturvediharsh123@gmail.com](mailto:chaturvediharsh123@gmail.com)
+[chitranshushekhawat@gmail.com](mailto:chitranshushekhawat@gmail.com)
 
 🔗 *LinkedIn:*
-https://www.linkedin.com/in/harsh-chaturvedi-537589292/
+https://www.linkedin.com/in/chitranshushekhawat/
 
 ---
 
