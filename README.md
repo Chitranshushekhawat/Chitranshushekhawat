@@ -86,17 +86,13 @@ Lightweight modular music player
 
 # 🌐 Connect With Me
 
-<p>
+# 🤝 Connect With Me
 
-<a href="mailto:chitranshushekhawat@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-</a>
+📧 *Email:*
+[chaturvediharsh123@gmail.com](mailto:chaturvediharsh123@gmail.com)
 
-<a href="https://github.com/ChitranshuShekhawat">
-<img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github">
-</a>
-
-</p>
+🔗 *LinkedIn:*
+https://www.linkedin.com/in/harsh-chaturvedi-537589292/
 
 ---
 
